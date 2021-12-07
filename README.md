@@ -2,7 +2,7 @@
 
 # DB-Based-Diagram
 
-> This project consists of a relational database which contains the data structure for a clinic. The Database schema was extracted from a diagram.
+> This project consists of a relational database which contains the data structure for a clinic. The Database was created based from a diagram.
 
 ## Getting Started
 
@@ -46,4 +46,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
